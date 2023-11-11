@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dipo chat App</string>
+    <string name="title_activity_chat">chat_activity</string>
+    <string name="log_out">Log out</string>
+</resources>
